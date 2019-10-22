@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/la-yumba/conservative-eslint6#readme",
   "dependencies": {
-    "eslint": "^2.7.0",
+    "eslint": "^6.5.1",
     "eslint-config-angular": "^0.5.0",
     "eslint-config-standard": "^5.1.0",
     "eslint-plugin-angular": "^1.0.0",
